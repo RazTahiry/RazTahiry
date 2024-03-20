@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raztahiry&label=Profile%20views&color=0e75b6&style=flat" alt="raztahiry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raztahiry" alt="raztahiry" /></a> </p>
-
 - 🔭 I’m currently working on [venteAuto](https://github.com/RazTahiry/venteAuto.git)
 
 - 🌱 I’m currently learning **Vue.js, React**
