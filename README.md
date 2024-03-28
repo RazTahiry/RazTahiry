@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Django**
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **laravel**
 
 - 📫 How to reach me **tahiryrazanamara01@gmail.com**
 
