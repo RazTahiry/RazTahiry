@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FreeCodeCamp Projects](https://github.com/RazTahiry/freeCodeCamp-Projects.git)
 
-- 🌱 I’m currently learning **Vue.js, Django**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **laravel**
 
