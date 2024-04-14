@@ -9,10 +9,10 @@
 
 - 📫 How to reach me: **tahiryrazanamara01@gmail.com**
 
-<h3 align="left">Connect with me:
+<h2 align="left">Connect with me:
    <a href="https://linkedin.com/in/tahiry-razanamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiry-razanamara" height="25" width="25" /></a>
     <a href="https://fb.com/razanamara.tahiry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanamara.tahiry" height="25" width="25" /></a>
-</h3>
+</h2>
 
 <h1 align="center">Languages and Tools</h1>
 <p align="center">   
