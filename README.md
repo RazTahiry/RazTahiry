@@ -9,9 +9,11 @@
 
 - 📫 How to reach me: **tahiryrazanamara01@gmail.com**
 
-<h3 align="left">Connect with me: 
-  <a href="https://linkedin.com/in/tahiry-razanamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiry-razanamara" height="30" width="30" /></a>
-  <a href="https://fb.com/razanamara.tahiry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanamara.tahiry" height="30" width="30" /></a>
+<h3 align="left">Connect with me:
+  <p style="margin-left: 10px;">
+    <a href="https://linkedin.com/in/tahiry-razanamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiry-razanamara" height="20" width="20" /></a>
+    <a href="https://fb.com/razanamara.tahiry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanamara.tahiry" height="20" width="20" /></a>
+  </p>
 </h3>
 
 <h1 align="center">Languages and Tools</h1>
