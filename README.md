@@ -9,12 +9,12 @@
 
 - 📫 How to reach me: **tahiryrazanamara01@gmail.com**
 
-<h2 align="left">Connect with me:
+<h3 align="left">Connect with me:
    <a href="https://linkedin.com/in/tahiry-razanamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiry-razanamara" height="25" width="25" /></a>
     <a href="https://fb.com/razanamara.tahiry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanamara.tahiry" height="25" width="25" /></a>
-</h2>
+</h3>
 
-<h1 align="center">Languages and Tools</h1>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">   
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -102,5 +102,5 @@
     </a>
 </p>
 
-<h1 align="center">Stats</h1>
+<h2 align="center">Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raztahiry&" alt="raztahiry" /></p>
