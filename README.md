@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack React/Laravel Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raztahiry&label=Profile%20views&color=0e75b6&style=flat" alt="raztahiry" /> </p>
-<img src="https://webbedfeetpro.com/wp-content/uploads/php-python-js.jpg" alt="php-python-js" width="80%" height="100" />
+<p align="center"><img src="https://webbedfeetpro.com/wp-content/uploads/php-python-js.jpg" alt="php-python-js" width="80%" height="auto" /></p>
 
 - 🔭 I’m currently working on [Visitor management](https://github.com/RazTahiry/Visitor_management.git)
 
