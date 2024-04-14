@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tahiry Razanamara</h1>
-<h3 align="center">Fullstack React/Laravel Developer</h3>
+<h1 align="center">Hi 👋, I'm Tahiry</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raztahiry&label=Profile%20views&color=0e75b6&style=flat" alt="raztahiry" /> </p>
 <p align="center"><img src="https://webbedfeetpro.com/wp-content/uploads/php-python-js.jpg" alt="php-python-js" width="80%" height="auto" /></p>
