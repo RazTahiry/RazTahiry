@@ -39,6 +39,8 @@
 </a>
 </div>
 
+<br>
+
 <h2 align="center">Languages and Tools</h2>
 <p align="center">   
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -127,9 +129,13 @@
     </a>
 </p>
 
-<h2 align="center">Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raztahiry&" alt="raztahiry" /></p>
 <br>
+
+<h2 align="center">Github Stats</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raztahiry&" alt="raztahiry" /></p>
+
+<br>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
