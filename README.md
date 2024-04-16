@@ -10,7 +10,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a fullstack react/laravel developer 」
+                「 A fullstack react/laravel developer 」
                 <br>
                 「 Coding with passion</b> 」
                 <br>
