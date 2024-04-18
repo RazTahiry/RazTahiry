@@ -133,6 +133,7 @@
 
 <h2 align="center">Github Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raztahiry&" alt="raztahiry" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raztahiry&show_icons=true&locale=en" alt="raztahiry" /></p>
 
 <br>
 
