@@ -23,9 +23,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raztahiry&label=Profile%20views&color=0e75b6&style=flat" alt="raztahiry" /> </p>
 <p align="center"><img src="https://webbedfeetpro.com/wp-content/uploads/php-python-js.jpg" alt="php-python-js" width="80%" height="auto" /></p>
 
-- 🔭 I’m currently working on [Visitor management](https://github.com/RazTahiry/Visitor_management.git)
+- 🔭 I’m currently working on [Java-project](https://github.com/RazTahiry/Java-project.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me: **tahiryrazanamara01@gmail.com**
 
