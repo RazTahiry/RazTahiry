@@ -65,6 +65,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="auto" height="40" />
     </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://logospng.org/wp-content/uploads/java-768x432.png"
+            alt="java" width="auto" height="40" />
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="auto"
             height="40" />
