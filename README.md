@@ -66,7 +66,7 @@
             alt="python" width="auto" height="40" />
     </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://logospng.org/wp-content/uploads/java-768x432.png"
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
             alt="java" width="auto" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@
             alt="postgresql" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.liblogo.com/img-logo/mo429m311-mongodb-logo-mongodb-logo-.png"
+        <img src="https://www.pngkey.com/png/full/494-4942154_mongodb-icon-mongodb-svg.png"
             alt="mongodb" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
