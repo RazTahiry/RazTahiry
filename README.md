@@ -25,7 +25,9 @@
 
 <!--- 🔭 I’m currently working on [Java-project](https://github.com/RazTahiry/Java-project.git)-->
 
-- 🌱 I’m currently learning **Web Scraping**
+<!--- 🌱 I’m currently learning **Web Scraping**-->
+
+<br>
 
 - 📫 How to reach me: **tahiryrazanamara01@gmail.com**
 
@@ -75,6 +77,9 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40"
             height="40" />
     </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="expressjs" width="40" height="40" />
+    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
     </a>
@@ -86,15 +91,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40" />
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.liblogo.com/img-logo/mo429m311-mongodb-logo-mongodb-logo-.png"
+            alt="mongodb" width="40" height="40" />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
             height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg" alt="chartjs" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
