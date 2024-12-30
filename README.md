@@ -119,8 +119,9 @@
 <br>
 
 <h2 align="center">Github Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raztahiry&" alt="raztahiry" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raztahiry&show_icons=true&locale=en" alt="raztahiry" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raztahiry&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <br>
 
