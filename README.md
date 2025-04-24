@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/react/react-original.svg" height="30" alt="reactjs logo"  />
+  <img src="https://www.svgrepo.com/show/303157/react-logo.svg" height="30" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxt logo"  />
   <img width="12" />
