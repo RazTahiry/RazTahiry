@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tahiry and I'm a Backend Developer, from Madagascar</h2>
+<h2 align="left">Hi 👋! My name is Tahiry and I'm a Javascript Developer, from Madagascar</h2>
 
 ###
 
@@ -19,7 +19,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/reac/react-original.svg" height="30" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxt logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
