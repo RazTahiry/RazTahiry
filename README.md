@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tahiry and I'm a Typescript Developer, from Madagascar</h2>
+<h2 align="left">Hi 👋! My name is Tahiry and I'm a Full-stack Developer, from Madagascar</h2>
 
 ###
 
